@@ -10,8 +10,8 @@ class Conversion
   
 end
 
-puts Conversion.new.pounds_to_ounce(5)
-puts Conversion.new.ounce_to_pounds(98)
+# puts Conversion.new.pounds_to_ounce(5)
+# puts Conversion.new.ounce_to_pounds(98)
 
 
 
